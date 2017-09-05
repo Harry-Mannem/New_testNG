@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35568" started-at="2017-09-05T19:17:37Z" finished-at="2017-09-05T19:18:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35568" started-at="2017-09-05T19:17:37Z" finished-at="2017-09-05T19:18:13Z">
+      <class name="com.java.sample.TestNG">
+        <test-method status="PASS" signature="openTheBrowser()[pri:0, instance:com.java.sample.TestNG@29774679]" name="openTheBrowser" is-config="true" duration-ms="4134" started-at="2017-09-05T15:17:37Z" finished-at="2017-09-05T15:17:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openTheBrowser -->
+        <test-method status="PASS" signature="mainPage()[pri:0, instance:com.java.sample.TestNG@29774679]" name="mainPage" duration-ms="30283" started-at="2017-09-05T15:17:42Z" finished-at="2017-09-05T15:18:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mainPage -->
+        <test-method status="PASS" signature="closeTheBrowser()[pri:0, instance:com.java.sample.TestNG@29774679]" name="closeTheBrowser" is-config="true" duration-ms="1130" started-at="2017-09-05T15:18:12Z" finished-at="2017-09-05T15:18:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTheBrowser -->
+      </class> <!-- com.java.sample.TestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
